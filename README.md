@@ -7,8 +7,8 @@ Frontend Developer || Python Enthusiast
 I have been learning coding for the past 3 years, gaining proficiency in various programming languages such as HTML, CSS, JavaScript, C, C++ and Python. My journey has equipped me with a strong foundation in web development and software engineering. I have a strong interest in artificial intelligence and machine learning, constantly exploring new advancements and seeking to apply them in innovative ways.
 
 * 🌍  I'm based in Indore City (M.P), India.
-* ✉️  You can contact me at [devo.shubham04@gmail.com](mailto:devo.shubham04@gmail.com)
-* 🧠  I'm learning Java
+* ✉️  You can contact me at [devo.shubham04@gmail.com](mailto:devo.shubham04@gmail.com).
+* 🧠  I'm learning Java.
 * 🤝  I'm open to collaborating on Projects, open-source etc.
 * ⚡  "Everybody in this country should learn to program a computer because it teaches you how to think." — Steve Jobs.
 
