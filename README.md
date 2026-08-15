@@ -1,9 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Gupta
-=====================================================================================================================================
-
-Full-Stack Developer | AI/ML Practitioner (In Progress)
----------------------------------------
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=54A6B8&text=Shubham%20Gupta&textBg=false&desc=AI%20Engineer&fontColor=ffffff&fontSize=55&fontAlignY=43&descAlignY=57&descSize=22" alt="Profile Banner" />
+</div>
 I have been learning coding for the past 4 years, gaining proficiency in various programming languages such as HTML, CSS, JavaScript, C, C++ and Python. My journey has equipped me with a strong foundation in web development and software engineering. I have a strong interest in artificial intelligence and machine learning, constantly exploring new advancements and seeking to apply them in innovative ways.
 
 * 🌍  I'm based in Indore City (M.P), India.
