@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=54A6B8&text=Shubham%20Gupta&textBg=false&desc=AI%20Engineer&fontColor=ffffff&fontSize=55&fontAlignY=43&descAlignY=57&descSize=22" alt="Profile Banner" />
 </div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0F998E&width=464&height=54&lines=Building+Intelligent+%26+Scalable+Applications;Machine+Learning+%26+Deep+Learning" alt="Typing SVG" /></a>
+</div>
+
 I have been learning coding for the past 4 years, gaining proficiency in various programming languages such as HTML, CSS, JavaScript, C, C++ and Python. My journey has equipped me with a strong foundation in web development and software engineering. I have a strong interest in artificial intelligence and machine learning, constantly exploring new advancements and seeking to apply them in innovative ways.
 
 * 🌍  I'm based in Indore City (M.P), India.
