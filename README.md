@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0F998E&width=464&height=54&lines=Building+Intelligent+%26+Scalable+Applications;Machine+Learning+%26+Deep+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0F998E&center=true&vCenter=true&width=800&height=54&lines=Building+Intelligent+%26+Scalable+Applications;Machine+Learning+%26+Deep+Learning" alt="Typing SVG" />
+  </a>
 </div>
 
 I have been learning coding for the past 4 years, gaining proficiency in various programming languages such as HTML, CSS, JavaScript, C, C++ and Python. My journey has equipped me with a strong foundation in web development and software engineering. I have a strong interest in artificial intelligence and machine learning, constantly exploring new advancements and seeking to apply them in innovative ways.
